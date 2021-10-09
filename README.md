@@ -1,5 +1,6 @@
 # Horiseon
 A set of code to practice accessibility and best practices.
+
 ![Horiseon page preview](./assets/images/preview.png)
 
 ## Description
