@@ -59,15 +59,17 @@ a {
 }
 /* hero style ends */
 
+/* all p style begin */
+p {
+    font-size: 16px;
+}
+/* all p style */
+
 /* content styles begin */
-main {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .content-section {
@@ -98,6 +100,7 @@ p {
 }
 /* main content styles end */
 
+/* aside style begin */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,7 +130,7 @@ p {
 .benefits p {
     margin-bottom: 10px;
 }
-
+/* aside styles end */
 
 /* footer styles begin */
 footer {
