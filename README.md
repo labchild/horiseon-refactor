@@ -16,3 +16,12 @@ A landing page for a marketing agency offering SEO and other online marketing se
 * HTML
 * CSS
 
+## Download and View
+Horiseon can be found at https://labchild.github.io/horiseon-refactor/.
+
+You can download the repo and check out my code at 
+
+### Author and Acknowledgements
+Refactored and deployed by Lelah Bates Childs.
+
+A big thank you to my bootcamp instructional team and cohort, for helping me along this journey to become a developer.
